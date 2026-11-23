@@ -86,7 +86,7 @@
 
 ## 许可
 
-代码按 MIT 许可开源，全文在 `LICENSE` 里。可以拿去用、改、做成别的东西，商用也可以，只要留着里面的版权声明。`vendor/` 里的 three.js 同样是 MIT 许可，版权属于 three.js 的作者们，打包出来的 `release/qiloumao.html` 末尾也留着它的版权声明。
+代码按 MIT 许可开源，全文在 `LICENSE` 里。可以拿去用、改、做成别的东西，商用也可以，只要留着里面的版权声明。`vendor/` 里的 three.js 同样是 MIT 许可，版权属于 three.js 的作者们，许可原文在 `vendor/LICENSE`，打包出来的 `release/qiloumao.html` 末尾也留着它的版权声明。
 
 ## English
 
